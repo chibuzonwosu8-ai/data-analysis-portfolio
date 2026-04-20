@@ -25,5 +25,5 @@ Hi, I'm a Data Analyst skilled in Excel, SQL, and data visualization.
 - SQL (Joins, Queries, Database Design)
 
 ## 📫 Contact
-- LinkedIn: coming soon
+- LinkedIn: Chibuzo Nwosu
 - Email: chibuzonwosu8@gmail.com
