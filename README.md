@@ -20,9 +20,9 @@ Hi, I'm a Data Analyst skilled in Excel, SQL, and data visualization.
 - Built a relational database for managing books and members
 - Tools: MySQL
 
-  ###4. Student Autograding sheet
-  - Filled a student autograding sheet with (Xlookup function, Rank.EQ function, IF fuction, Sum function and Data Validation
-  - Tools: Microsoft Excel
+  ### 4. Student Autograding sheet (Excel)
+ - Filled a student autograding sheet with (XLOOKUP function, Rank.EQ function, IF fuction, SUM function and DATA VALIDATION)
+- Tools: Microsoft Excel
 
 ## 🛠 Skills
 - Excel (Pivot Tables, Charts, Data Cleaning)
