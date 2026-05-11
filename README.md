@@ -11,9 +11,9 @@ Hi, I'm a Data Analyst skilled in Excel, SQL, and data visualization.
 - Tools: MySQL
 - Skills: Database design, SQL queries
 
-### 2. Expense Analysis (Excel)
-- Cleaned and analyzed expense data
-- Created dashboards using Pivot Tables and Charts
+### 2. Sales and Expense Analysis (Excel)
+- Cleaned and analyzed sales and expense data
+- Created dashboards using Pivot Tables, charts and KPI Cards
 - Tools: Microsoft Excel
 
 ### 3. Library Database Project
